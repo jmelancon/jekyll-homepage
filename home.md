@@ -12,7 +12,7 @@ My name is Joseph Melancon. I'm 20 and currently a sophomore seeking a
 bachelors in Computer Science at University of North Dakota in Grand Forks,
 North Dakota.
 
-## My skills
+## My Skills
 
 See below for a list of my skills. It's been a minute since I've touched 
 up this site, but eventually I would like to get a resume page added.
@@ -26,7 +26,7 @@ up this site, but eventually I would like to get a resume page added.
 | Active Directory | Aside from working in Windows endpoint support at my part time job, I have played around a bit with deploying an Active Directory server using Samba. I've got a decent grasp on the structuring and managment of a domain. Still got plenty of learning to do though. |
 | Git | I know enough with git to do basic work on my own. I don't do a lot of colaborative projects in git, at least not yet, so I haven't had the chance to get much experience in resolving merge conflicts. I primarily use Github to store my code, however, I have used Gitlab previously as well and am interested in deploying a Gitea server and possibly migrating my code there in the future. |
 
-## My work
+## My Work
 
 Not too much to speak of here, at least not yet. A lot of my code is too 
 small a project to consider deploying or contains sensitive information. 
