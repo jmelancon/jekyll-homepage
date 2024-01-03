@@ -4,7 +4,7 @@ title: "Joseph Melancon (jmelancon)"
 project_name: "Joseph Melancon"
 lang: "en" # the language of the website in html format
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pre.jmelancon.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jmelancon.com" # the base hostname & protocol for your site, e.g. http://example.com
 footer_text: "2024, jmelancon" # text that goes in the lower left of the screen on the footer. for example, your project's repo name.
 icon_location: "/assets/profile_photo.jpg" # where your project image is. don't leave blank!
 icon_alt_text: "My senior photo. It's a little dated, but alas, it is still a photo of me." # alt text for your project's image. you can leave this blank, but you really shouldn't.
