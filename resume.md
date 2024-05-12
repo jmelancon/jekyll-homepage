@@ -51,13 +51,13 @@ to [contact me](#contact-me)!
 
 ### UND University Information Technology
   
-#### Repair Technician - Grand Forks, ND, Part-time, February 2024 - Present
+#### Repair Technician - Grand Forks, ND, Part-time, Feb 2024 - Present
 
  - Troubleshoot and repair university and student devices
  - Work with Apple and Dell repair programs to provide authorized repair services
  - Communicate with users to relay both diagnoses and next steps in the repair process
 
-#### Desktop Deployments - Grand Forks, ND, Part-time, Aug 2023 - February 2024
+#### Desktop Deployments - Grand Forks, ND, Part-time, Aug 2023 - Feb 2024
 
  - Deploy standardized images of Windows 10 to faculty, staff, and checkout devices
  - Cater each deployment to the individual needs of their assigned user
