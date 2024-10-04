@@ -28,7 +28,7 @@ My skills are as follows:
 | Category           | Relevant Skills |
 |------------------------|-----------------------------------------------------------------|
 | Tools              | MySQL, Kafka, Docker, Docker Compose, Linux (Debian, Alpine), Git VCS, SSH |
-| Languages          | Python3, Java, JavaScript, Golang, C, C++ |
+| Languages          | Python3, PHP, Java, JavaScript, Golang, C, C++ |
 | Language-Adjacent  | HTML/CSS, RSS, Markdown, JSON |
 | Editors & IDEs     | JetBrains Suite, Visual Studio Code, Vim |
 | Productivity       | Microsoft Office, Adobe Photoshop |
@@ -50,8 +50,14 @@ to [contact me](#contact-me)!
  - Deliver findings in an understandable and digestible format
 
 ### UND University Information Technology
+
+### Full-Stack Web Developer - Grand Forks, ND, Part-time, Jun 2024 - Present
+
+ - Interpret, document, and refactor insecure and undocumented code
+ - Identify and document vulnerabilities in existing codebase to ensure they are patched
+ - Effectively communicate with peers to determine best practices for implementation of specific features
   
-#### Repair Technician - Grand Forks, ND, Part-time, Feb 2024 - Present
+#### Repair Technician - Grand Forks, ND, Part-time, Feb 2024 - Aug 2024
 
  - Troubleshoot and repair university and student devices
  - Work with Apple and Dell repair programs to provide authorized repair services
