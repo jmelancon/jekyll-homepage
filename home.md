@@ -8,7 +8,7 @@ importance: -1
 
 # Hello!
 
-My name is Joseph Melancon. I'm 20 and currently a junior seeking a 
+My name is Joseph Melancon. I'm 21 and currently a junior seeking a 
 bachelors in Computer Science at University of North Dakota in Grand Forks,
 North Dakota.
 
